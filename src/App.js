@@ -37,11 +37,15 @@ function App() {
             <li className={currentUser ? 'hidden' : ''}>
               <Link to="/signup">Signup</Link>
             </li>
+            <li>
+              <a target="blank" href="https://github.com/EduardLubomirsky/react-simple-login">Github</a>
+            </li>
           </ul>
           <Route exact path="/" component={Home} />
           <Route path="/login" component={Login} />
           <Route path="/signup" component={Signup} />
           <PrivateRoute path="/admin" component={Admin} />
+
         </div>
       </Router>
     </AuthContext.Provider>
