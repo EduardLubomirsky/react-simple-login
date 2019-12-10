@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-simple-login/static/css/main.8dae5b8c.chunk.css",
+    "main.js": "/react-simple-login/static/js/main.255f783f.chunk.js",
+    "main.js.map": "/react-simple-login/static/js/main.255f783f.chunk.js.map",
+    "runtime-main.js": "/react-simple-login/static/js/runtime-main.c7f99697.js",
+    "runtime-main.js.map": "/react-simple-login/static/js/runtime-main.c7f99697.js.map",
+    "static/js/2.525de572.chunk.js": "/react-simple-login/static/js/2.525de572.chunk.js",
+    "static/js/2.525de572.chunk.js.map": "/react-simple-login/static/js/2.525de572.chunk.js.map",
+    "index.html": "/react-simple-login/index.html",
+    "precache-manifest.ba415dea2bd44d669f27329063e6c1de.js": "/react-simple-login/precache-manifest.ba415dea2bd44d669f27329063e6c1de.js",
+    "service-worker.js": "/react-simple-login/service-worker.js",
+    "static/css/main.8dae5b8c.chunk.css.map": "/react-simple-login/static/css/main.8dae5b8c.chunk.css.map",
+    "static/js/2.525de572.chunk.js.LICENSE": "/react-simple-login/static/js/2.525de572.chunk.js.LICENSE",
+    "static/media/logo.png": "/react-simple-login/static/media/logo.862d26fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7f99697.js",
+    "static/js/2.525de572.chunk.js",
+    "static/css/main.8dae5b8c.chunk.css",
+    "static/js/main.255f783f.chunk.js"
+  ]
+}
